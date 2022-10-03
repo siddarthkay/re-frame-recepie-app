@@ -1,11 +1,11 @@
 {
-  "name": "Cheffy",
+  "name": "Recepieey",
   "version": "0.0.1",
-  "description": "Cheffy - AirBnB for Chefs",
+  "description": "Recepieey - Recipy App for Re-frame",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/jacekschae/learn-re-frame-course-files"
+    "url": "https://github.com/siddarthkay/re-frame-recipe-app"
   },
   "scripts": {
     "dev": "shadow-cljs watch app",
